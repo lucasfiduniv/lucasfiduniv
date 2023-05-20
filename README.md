@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Fiduniv;Tenho+19+Anos+Hoje;Sou+Do+Brasil;Trabalho+na+Pormade+Portas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasFiduniv&bg_color=0d1117&color=0000FF&line=0000FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasFiduniv&bg_color=0d1117&color=FFFFFF&line=0000FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/lucasfiduniv/github-readme-activity-graph)
 
 
 <p align="center">
@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+
 
 
 ### Estou Estudando no Momento:
