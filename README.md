@@ -25,7 +25,7 @@
   <a href = "https://www.linkedin.com/in/lucas-fiduniv-474822186">
     <img width="25" src="linkedin.svg">
   </a>
-  <a href = "https://www.instagram.com/devparadev/">
+  <a href = "https://www.instagram.com/lucas.fiduniv/">
     <img width="25" src="instagram.png">
   </a>
 </div>
