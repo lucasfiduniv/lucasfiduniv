@@ -41,8 +41,8 @@
 ![Connect with Me](https://img.shields.io/static/v1?label=Connect%20&message=with%20Me:&color=white&style=for-the-badge&logoColor=black)
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/giovannivicentin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:giovannifvicentin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
-<a href="https://instagram.com/giovannivicentin/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="http://www.giovannivicentin.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lucas-fiduniv-474822186/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href=""><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=minutemailer&logoColor=white" /></a>
+<a href="https://instagram.com/lucas_fiduniv" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="http://www.lucasfiduniv.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GV​-Portfolio-%23A020F0?style=flat&logo=&logoColor=white" /></a>
 </p>
